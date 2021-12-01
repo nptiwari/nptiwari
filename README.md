@@ -32,4 +32,4 @@
 
 ![Narendra Prasad Tiwari](https://github-readme-stats.vercel.app/api?username=nptiwari&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandurijal03)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nptiwari)
