@@ -5,7 +5,7 @@
 - I am currently learning more about microservices in react and algorithms.
 - Things on my plate later - Rust .
 - All my projects are available here.
-- You can ask me about React and Javascript.
+- You can ask me about ReactJs and NodeJs.
 - tiwarinarendra212@gmail.com is a way to connect with me.
 
 ### Language and Tools
