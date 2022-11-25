@@ -1,12 +1,10 @@
 # Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm Narendra Prasad Tiwari.
 
-## I am software developer from Nepal, currently focusing in SPA with React.
+##  developer from Nepal
 
 - I am currently learning more about microservices in react and algorithms.
 - Things on my plate later - Rust .
-- All my projects are available here.
-- You can ask me about ReactJs and NodeJs.
-- tiwarinarendra212@gmail.com is a way to connect with me.
+- You can ask me about JavaScript
 
 ### Language and Tools
 
@@ -30,6 +28,6 @@
 
 ### GitHub Stats
 
-![Narendra Prasad Tiwari](https://github-readme-stats.vercel.app/api?username=nptiwari&show_icons=true)
+![Narendra Prasad Tiwari](https://github-readme-stats.vercel.app/api?username=nptiwari&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nptiwari)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nptiwari&show_icons=true&theme=dark)
